@@ -1,0 +1,19 @@
+{
+  "valid_leaf_area_pixels": 1152,
+  "burned_pixels": 284,
+  "burned_pixels_without_lai": 85,
+  "inside_burn": {
+    "pixels": 199,
+    "lai_2024": 1.214,
+    "lai_2026": 0.600,
+    "change": -0.614,
+    "pixels_down_by_0_3": 163
+  },
+  "outside_burn": {
+    "pixels": 953,
+    "lai_2024": 0.976,
+    "lai_2026": 0.907,
+    "change": -0.069,
+    "pixels_down_by_0_3": 240
+  }
+}
